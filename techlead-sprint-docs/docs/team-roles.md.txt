@@ -1,0 +1,19 @@
+# 👥 Team Roles & Responsibilities
+
+This document outlines the simulated team structure for the sprint demo project.
+
+## 🧑‍💻 Team Composition
+
+| Role              | Responsibility Summary                                |
+|-------------------|--------------------------------------------------------|
+| Tech Program Lead | Overall planning, coordination, delivery               |
+| Android Dev       | Build Jetpack Compose UI, integrate API               |
+| Backend Dev       | Implement Spring Boot endpoints                        |
+| QA Engineer       | Create and run unit/integration tests                  |
+| DevOps            | Maintain GitHub Actions CI/CD, workflow fixes         |
+| Scrum Master      | Sprint planning, stand-ups, retrospectives             |
+| Product Owner     | Define requirements, review demo outcome               |
+
+## 🔁 Collaboration Summary
+
+All roles tracked tasks via GitHub Issues. Tech Lead managed scope alignment and code integration.

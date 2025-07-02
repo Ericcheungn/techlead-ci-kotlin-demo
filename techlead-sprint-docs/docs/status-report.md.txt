@@ -1,0 +1,42 @@
+# Stakeholder Weekly Status Report
+
+Project: Tech Lead CI/CD Kotlin Demo  
+Reporting Period: June 22 – July 2, 2025  
+Prepared by: Eric Cheung
+
+---
+
+## Milestone Progress
+
+| Milestone                     | Status     | Notes                          |
+|------------------------------|------------|--------------------------------|
+| Frontend prototype (Android) | Completed  | Jetpack Compose UI initialized |
+| Backend API (Spring Boot)    | Completed  | Endpoints tested               |
+| CI/CD setup                  | Completed  | GitHub Actions pipeline works  |
+| Unit test coverage           | Planned    | Will be added in Sprint 2      |
+
+---
+
+## Risks and Dependencies
+
+- Tight timeline for end-to-end integration  
+- Limited test coverage in first sprint  
+- Single-person demo; no peer reviews yet
+
+---
+
+## Next Sprint Focus
+
+- Add unit tests and code coverage  
+- Connect UI to backend API  
+- Improve technical documentation  
+- Add milestone tracking and API pagination
+
+---
+
+## Notes to Stakeholders
+
+All deliverables and codebase are available in the public GitHub repository:  
+https://github.com/Ericcheungn/techlead-ci-kotlin-demo
+
+Please advise if any changes in scope or direction are required before the next iteration.
